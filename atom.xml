@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fizzychicken.com/"/>
-  <updated>2017-01-06T03:35:30.118Z</updated>
+  <updated>2017-01-06T10:23:44.591Z</updated>
   <id>http://fizzychicken.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>art gallery of derps</title>
+    <link href="http://fizzychicken.com/2017/01/06/art-gallery-of-derps/"/>
+    <id>http://fizzychicken.com/2017/01/06/art-gallery-of-derps/</id>
+    <published>2017-01-06T10:22:03.000Z</published>
+    <updated>2017-01-06T10:23:44.591Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a gallery of derp (there should be 2 pictures)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a gallery of derp (there should be 2 pictures)&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>I did multiple things</title>
