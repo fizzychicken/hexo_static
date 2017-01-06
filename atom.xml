@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fizzychicken.com/"/>
-  <updated>2017-01-06T02:08:11.162Z</updated>
+  <updated>2017-01-06T03:28:46.491Z</updated>
   <id>http://fizzychicken.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://fizzychicken.com/2017/01/06/I-did-multiple-things/"/>
     <id>http://fizzychicken.com/2017/01/06/I-did-multiple-things/</id>
     <published>2017-01-06T01:59:48.000Z</published>
-    <updated>2017-01-06T02:08:11.162Z</updated>
+    <updated>2017-01-06T03:28:46.491Z</updated>
     
     <content type="html"><![CDATA[<p>I have done a few different things</p>
 <ul>
@@ -47,10 +47,10 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://fizzychicken.com/categories/hexo/"/>
+      <category term="Hexo" scheme="http://fizzychicken.com/categories/Hexo/"/>
     
     
-      <category term="hexo" scheme="http://fizzychicken.com/tags/hexo/"/>
+      <category term="Hexo" scheme="http://fizzychicken.com/tags/Hexo/"/>
     
   </entry>
   
@@ -59,7 +59,7 @@
     <link href="http://fizzychicken.com/2017/01/05/all-the-best-books-have-pictures-1/"/>
     <id>http://fizzychicken.com/2017/01/05/all-the-best-books-have-pictures-1/</id>
     <published>2017-01-05T10:36:12.000Z</published>
-    <updated>2017-01-05T11:10:51.796Z</updated>
+    <updated>2017-01-06T03:29:02.660Z</updated>
     
     <content type="html"><![CDATA[<p>so I should also try adding images to this thing (as links) and hopefully the fancybox stuff I enabled in the config will kick in.</p>
 <p>let’s try this with some blep.</p>
@@ -73,10 +73,10 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://fizzychicken.com/categories/hexo/"/>
+      <category term="Hexo" scheme="http://fizzychicken.com/categories/Hexo/"/>
     
     
-      <category term="hexo" scheme="http://fizzychicken.com/tags/hexo/"/>
+      <category term="Hexo" scheme="http://fizzychicken.com/tags/Hexo/"/>
     
   </entry>
   
