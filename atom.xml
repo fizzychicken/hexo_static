@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fizzychicken.com/"/>
-  <updated>2017-01-06T10:23:44.591Z</updated>
+  <updated>2017-01-06T10:50:52.179Z</updated>
   <id>http://fizzychicken.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>but where is the icon</title>
+    <link href="http://fizzychicken.com/2017/01/06/but-where-is-the-icon/"/>
+    <id>http://fizzychicken.com/2017/01/06/but-where-is-the-icon/</id>
+    <published>2017-01-06T10:47:47.000Z</published>
+    <updated>2017-01-06T10:50:52.179Z</updated>
+    
+    <content type="html"><![CDATA[<p>bean is very photogenic</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;bean is very photogenic&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Images" scheme="http://fizzychicken.com/tags/Images/"/>
+    
+  </entry>
   
   <entry>
     <title>art gallery of derps</title>
