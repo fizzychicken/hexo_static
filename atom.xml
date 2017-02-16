@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fizzychicken.com/"/>
-  <updated>2017-02-16T09:34:19.675Z</updated>
+  <updated>2017-02-16T09:38:24.934Z</updated>
   <id>http://fizzychicken.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://fizzychicken.com/2017/02/16/why-would-you-ever-trust-me/"/>
     <id>http://fizzychicken.com/2017/02/16/why-would-you-ever-trust-me/</id>
     <published>2017-02-16T08:45:19.000Z</published>
-    <updated>2017-02-16T09:34:19.675Z</updated>
+    <updated>2017-02-16T09:38:24.934Z</updated>
     
-    <content type="html"><![CDATA[<p>Even though you should always care about certification, I only bother to do it so that I can get rid of pesky warnings in Chrome when connecting from where I work.<br>Anyway, as this little server is a new setup where I trial new things, I opted to go with (<a href="https://certbot.eff.org" target="_blank" rel="external">https://certbot.eff.org</a> “Letsencrypt/Certbot”), this can now be verified at (<a href="https://www.ssllabs.com/ssltest/analyze.html?d=fizzychicken.com" target="_blank" rel="external">https://www.ssllabs.com/ssltest/analyze.html?d=fizzychicken.com</a> “SSLLabs”).<br>On a similar matter of gaining trust, keybase chat is now up and running, I can be contacted whenevr you secret squirrels want to, (<a href="https://keybase.io/fizzychicken" target="_blank" rel="external">https://keybase.io/fizzychicken</a> “here”).<br>I also removed the fancybox posts with pictures of the cats. I couldn’t get on board with having such large images as part of the load, I promise to only link images in the future.</p>
+    <content type="html"><![CDATA[<p>Even though you should always care about certification, I only bother to do it so that I can get rid of pesky warnings in Chrome when connecting from where I work.<br>Anyway, as this little server is a new setup where I trial new things, I opted to go with <a href="https://certbot.eff.org" title="Letsencrypt/Certbot" target="_blank" rel="external">letsencrypt/certbot</a>, this can now be verified at <a href="https://www.ssllabs.com/ssltest/analyze.html?d=fizzychicken.com" title="SSLLabs" target="_blank" rel="external">SSLLabs</a>.<br>On a similar matter of gaining trust, keybase chat is now up and running, I can be contacted whenevr you secret squirrels want to, <a href="https://keybase.io/fizzychicken" title="keybase" target="_blank" rel="external">here</a>.<br>I also removed the fancybox posts with pictures of the cats. I couldn’t get on board with having such large images as part of the load, I promise to only link images in the future.</p>
 ]]></content>
     
     <summary type="html">
