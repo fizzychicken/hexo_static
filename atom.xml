@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fizzychicken.com/"/>
-  <updated>2017-02-16T09:43:48.521Z</updated>
+  <updated>2017-08-22T08:46:36.711Z</updated>
   <id>http://fizzychicken.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>renewing</title>
+    <link href="http://fizzychicken.com/2017/08/22/renewing/"/>
+    <id>http://fizzychicken.com/2017/08/22/renewing/</id>
+    <published>2017-08-22T08:42:33.000Z</published>
+    <updated>2017-08-22T08:46:36.711Z</updated>
+    
+    <content type="html"><![CDATA[<p>so if, like me, you get errors when renewing a letsencrypt certificate, along the lines of</p>
+<p>Attempting to renew cert from /etc/letsencrypt/renewal/domain.com.conf produced an unexpected error: The apache plugin is not working; there may be problems with your existing configuration.<br>The error was: PluginError(‘There has been an error in parsing the file /etc/apache2/sites-enabled/000-default.conf on line 59: Syntax error’,). Skipping.</p>
+<p>This was due to <virtualhost *:433=""> which apache likes but certbot doesnt, removing the =”” and running certbot renew worked. I put the =”” back in and restarted Apache and everything is back to working.<br>I’ve actually had this problem more then once and each time I forget how I dealt with it….because I am useless.</virtualhost></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;so if, like me, you get errors when renewing a letsencrypt certificate, along the lines of&lt;/p&gt;
+&lt;p&gt;Attempting to renew cert from /etc/lets
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>why would you ever trust me?</title>

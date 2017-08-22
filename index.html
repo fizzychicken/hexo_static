@@ -65,6 +65,45 @@
     <header>
       
         <div class="icon"></div>
+        <time datetime="2017-08-22T08:42:33.000Z"><a href="/2017/08/22/renewing/">Tuesday, August 22nd 2017</a></time>
+      
+      
+  
+    <h1 class="title"><a href="/2017/08/22/renewing/">renewing</a></h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <p>so if, like me, you get errors when renewing a letsencrypt certificate, along the lines of</p>
+<p>Attempting to renew cert from /etc/letsencrypt/renewal/domain.com.conf produced an unexpected error: The apache plugin is not working; there may be problems with your existing configuration.<br>The error was: PluginError(‘There has been an error in parsing the file /etc/apache2/sites-enabled/000-default.conf on line 59: Syntax error’,). Skipping.</p>
+<p>This was due to <virtualhost *:433=""> which apache likes but certbot doesnt, removing the =”” and running certbot renew worked. I put the =”” back in and restarted Apache and everything is back to working.<br>I’ve actually had this problem more then once and each time I forget how I dealt with it….because I am useless.</virtualhost></p>
+
+      
+    </div>
+    <footer>
+      
+        
+        
+        <div class="alignright">
+          <a href="http://fizzychicken.com/2017/08/22/renewing/#disqus_thread" class="comment-link">Comments</a>
+        </div>
+        
+      
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+
+
+  <article class="post">
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
         <time datetime="2017-02-16T08:45:19.000Z"><a href="/2017/02/16/why-would-you-ever-trust-me/">Thursday, February 16th 2017</a></time>
       
       
