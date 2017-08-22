@@ -77,7 +77,7 @@
       
         <p>so if, like me, you get errors when renewing a letsencrypt certificate, along the lines of</p>
 <p>Attempting to renew cert from /etc/letsencrypt/renewal/domain.com.conf produced an unexpected error: The apache plugin is not working; there may be problems with your existing configuration.<br>The error was: PluginError(‘There has been an error in parsing the file /etc/apache2/sites-enabled/000-default.conf on line 59: Syntax error’,). Skipping.</p>
-<p>This was due to <virtualhost *:433=""> which apache likes but certbot doesnt, removing the =”” and running certbot renew worked. I put the =”” back in and restarted Apache and everything is back to working.<br>I’ve actually had this problem more then once and each time I forget how I dealt with it….because I am useless.</virtualhost></p>
+<p>This was due to VirtualHost *:433=”” which apache likes but certbot doesnt, removing the =”” and running certbot renew worked. I put the =”” back in and restarted Apache and everything is back to working.<br>I’ve actually had this problem more then once and each time I forget how I dealt with it….because I am useless.</p>
 
       
     </div>
